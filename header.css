@@ -1,0 +1,63 @@
+
+.header {
+  height: 70px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+
+  background-color: lightskyblue;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+}
+
+.linkedinbutton {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background-color: lightskyblue;
+  border-style: none;
+}
+
+.linkedinbutton:hover {
+  background-color: blue;
+}
+
+.linkedinlogo {
+  height : 50px;
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}
+
+.name {
+  width: 300px;
+  height: 60px;
+  margin-left: 45%;
+  margin-right: 45%;
+  margin-top: 20px;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.resumeicon {
+  width: 50px;
+  height: 50px;
+}
+
+.resumebutton {
+  width: 70px;
+  height: 70px;
+  background-color: lightskyblue;
+  border-style: none;
+  position: absolute;
+  right: 75px;
+}
+
+.resumebutton:hover {
+  background-color: blue;
+}

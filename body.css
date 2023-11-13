@@ -1,0 +1,23 @@
+.headshot {
+  height: 300px;
+  width: 300px;
+  margin-right: 2%;
+  margin-left: 77%;
+}
+
+.aboutme {
+  font-family: Roboto;
+  font-size: medium;
+  margin-left: 10px;
+  margin-top: 100px;
+}
+.professional-statement, .skills {
+  font-family: Roboto;
+  font-size: medium;
+  margin-left: 10px;
+}
+
+.headshotcontainer {
+  width: 150px;
+  margin-left: 69%;
+}
