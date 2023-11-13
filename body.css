@@ -1,3 +1,6 @@
+ body {
+  background-color: lightcyan;
+ }
 .headshot {
   height: 300px;
   width: 300px;
@@ -12,12 +15,21 @@
   margin-top: 100px;
 }
 .professional-statement, .skills {
+  margin-top: 15px;
+  width: 800px;
   font-family: Roboto;
   font-size: medium;
   margin-left: 10px;
+  margin-right: 5px;
 }
 
 .headshotcontainer {
   width: 150px;
   margin-left: 69%;
+}
+
+.githublink {
+  margin-left: 10px;
+  font-family: Roboto;
+  font-size: medium
 }
